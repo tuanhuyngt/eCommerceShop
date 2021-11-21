@@ -11,8 +11,6 @@ node_modules/
 
 # production
 /client/build
-/server/data
-/server/seeder.js
 
 # misc
 .DS_Store
